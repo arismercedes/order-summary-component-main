@@ -6,7 +6,7 @@
 body {
   margin: 0;
   background-color: #e0e8ff;
-  background-image: url(/images/pattern-background-desktop.svg);
+  background-image: url(https://raw.githubusercontent.com/arismercedes/order-summary-component-main/master/images/pattern-background-desktop.svg);
   background-size: cover;
   background-repeat: no-repeat;
   width: 100%;
@@ -42,7 +42,7 @@ body {
   border-top-right-radius: 20px;
   height: 220px;
   width: 100%;
-  background-image: url(/images/illustration-hero.svg);
+  background-image: url(https://raw.githubusercontent.com/arismercedes/order-summary-component-main/master/images/illustration-hero.svg);
   background-size: cover;
   display: block;
 }
